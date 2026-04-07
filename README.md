@@ -37,7 +37,7 @@ Esta API de League of Legends permite a los desarrolladores interactuar con los 
 
 ## Primeros pasos
 1. Clona el repositorio: `git clone https://github.com/juanmelgarl/Api-De-League-Of-Leguends.git`
-2. Instala las dependencias: con dotnet restore
+2. Instala las dependencias: con dotnet build y run
 
 3. Configuración: Configura la cadena de conexión de SQL Server en el archivo `appsettings.json`.
 
