@@ -1,13 +1,13 @@
-## Carpetas de compilación (Basura)
+
 [Bb]in/
 [Oo]bj/
 
-## Configuración de Visual Studio
+
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-## Archivos de publicación
+
 publish/
