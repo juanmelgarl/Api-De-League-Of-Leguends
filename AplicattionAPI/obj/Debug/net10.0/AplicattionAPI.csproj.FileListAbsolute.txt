@@ -1,0 +1,15 @@
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\bin\Debug\net10.0\AplicattionAPI.deps.json
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\bin\Debug\net10.0\AplicattionAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\bin\Debug\net10.0\AplicattionAPI.pdb
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\bin\Debug\net10.0\DomainAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\bin\Debug\net10.0\DomainAPI.pdb
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.AssemblyInfoInputs.cache
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.AssemblyInfo.cs
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\Aplicatt.77DB7266.Up2Date
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\refint\AplicattionAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\AplicattionAPI.pdb
+C:\Users\juanm\source\repos\WebApplication1\AplicattionAPI\obj\Debug\net10.0\ref\AplicattionAPI.dll

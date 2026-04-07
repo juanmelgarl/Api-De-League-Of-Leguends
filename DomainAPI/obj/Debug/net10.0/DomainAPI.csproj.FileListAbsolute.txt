@@ -1,0 +1,11 @@
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\bin\Debug\net10.0\DomainAPI.deps.json
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\bin\Debug\net10.0\DomainAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\bin\Debug\net10.0\DomainAPI.pdb
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.AssemblyInfoInputs.cache
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.AssemblyInfo.cs
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\refint\DomainAPI.dll
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\DomainAPI.pdb
+C:\Users\juanm\source\repos\WebApplication1\DomainAPI\obj\Debug\net10.0\ref\DomainAPI.dll

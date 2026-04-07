@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\domainapi\\interfaces\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|solutionrelative:domainapi\\interfaces\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\domainapi\\entities\\campeonfilterspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|solutionrelative:domainapi\\entities\\campeonfilterspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\getcampeoneshandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\getcampeoneshandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\dtos\\request\\query\\getcampeonesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\dtos\\request\\query\\getcampeonesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\domainapi\\entities\\campeones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|solutionrelative:domainapi\\entities\\campeones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\obtenerporidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\obtenerporidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\webapplication1\\controllers\\campeonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\campeonescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\webapplication1\\globalexceptions\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\globalexceptions\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\behavior\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\aplicattionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\aplicattionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\validations\\validationlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\validations\\validationlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\validations\\validationcampeones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\validations\\validationcampeones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\dtos\\request\\query\\obtenerporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\dtos\\request\\query\\obtenerporidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\loginhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\dtos\\request\\comand\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\dtos\\request\\comand\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\domainapi\\interfaces\\ilolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|solutionrelative:domainapi\\interfaces\\ilolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8FEE47-3B36-2AE3-A729-DE45522BD05E}|InfrastructureAPI\\InfrastructureAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\infrastructureapi\\lolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8FEE47-3B36-2AE3-A729-DE45522BD05E}|InfrastructureAPI\\InfrastructureAPI.csproj|solutionrelative:infrastructureapi\\lolrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\domainapi\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A9C1508-F601-E130-C5CD-90C01EF2A70B}|DomainAPI\\DomainAPI.csproj|solutionrelative:domainapi\\interfaces\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D43C3F7-6A5F-44D4-852B-7341A8449145}|PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\pruebaunitarialolapi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D43C3F7-6A5F-44D4-852B-7341A8449145}|PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj|solutionrelative:pruebaunitarialolapi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\updatecampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\updatecampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\deletecampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\deletecampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\aplicattionapi\\handlers\\createcampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A5DCC-6C3A-A00B-6567-6350D4C8A56F}|AplicattionAPI\\AplicattionAPI.csproj|solutionrelative:aplicattionapi\\handlers\\createcampeonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D43C3F7-6A5F-44D4-852B-7341A8449145}|PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj|c:\\users\\juanm\\source\\repos\\webapplication1\\pruebaunitarialolapi\\pruebaunitarialolapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D43C3F7-6A5F-44D4-852B-7341A8449145}|PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj|solutionrelative:pruebaunitarialolapi\\pruebaunitarialolapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:44:45.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T12:14:43.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCampeonesHandler .cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\GetCampeonesHandler .cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\GetCampeonesHandler .cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\GetCampeonesHandler .cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\GetCampeonesHandler .cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:25:46.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCampeonesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Query\\GetCampeonesQuery.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\DTOS\\Request\\Query\\GetCampeonesQuery.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Query\\GetCampeonesQuery.cs",
+              "RelativeToolTip": "AplicattionAPI\\DTOS\\Request\\Query\\GetCampeonesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:17:25.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CampeonFilterSpec.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Entities\\CampeonFilterSpec.cs",
+              "RelativeDocumentMoniker": "DomainAPI\\Entities\\CampeonFilterSpec.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Entities\\CampeonFilterSpec.cs",
+              "RelativeToolTip": "DomainAPI\\Entities\\CampeonFilterSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:06:19.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "DomainAPI\\Interfaces\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\BaseSpecification.cs",
+              "RelativeToolTip": "DomainAPI\\Interfaces\\BaseSpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:03:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DependencyInjection.cs",
+              "RelativeToolTip": "AplicattionAPI\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T06:10:23.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Campeones.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Entities\\Campeones.cs",
+              "RelativeDocumentMoniker": "DomainAPI\\Entities\\Campeones.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Entities\\Campeones.cs",
+              "RelativeToolTip": "DomainAPI\\Entities\\Campeones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:04:32.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObtenerporIdHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\ObtenerporIdHandler.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\ObtenerporIdHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\ObtenerporIdHandler.cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\ObtenerporIdHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:40:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CampeonesController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CampeonesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CampeonesController.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CampeonesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CampeonesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:20:28.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AplicattionAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\AplicattionAPI.csproj",
+              "RelativeDocumentMoniker": "AplicattionAPI\\AplicattionAPI.csproj",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\AplicattionAPI.csproj",
+              "RelativeToolTip": "AplicattionAPI\\AplicattionAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T11:54:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationCampeones.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Validations\\ValidationCampeones.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Validations\\ValidationCampeones.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Validations\\ValidationCampeones.cs",
+              "RelativeToolTip": "AplicattionAPI\\Validations\\ValidationCampeones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:55:09.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationLogin.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Validations\\ValidationLogin.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Validations\\ValidationLogin.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Validations\\ValidationLogin.cs",
+              "RelativeToolTip": "AplicattionAPI\\Validations\\ValidationLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:59:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Globalexception.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\GlobalExceptions\\Globalexception.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\GlobalExceptions\\Globalexception.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\GlobalExceptions\\Globalexception.cs",
+              "RelativeToolTip": "WebApplication1\\GlobalExceptions\\Globalexception.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:15:01.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Behavior\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Behavior\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Behavior\\ValidationBehavior.cs",
+              "RelativeToolTip": "AplicattionAPI\\Behavior\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:03:51.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ObtenerporIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Query\\ObtenerporIdQuery.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\DTOS\\Request\\Query\\ObtenerporIdQuery.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Query\\ObtenerporIdQuery.cs",
+              "RelativeToolTip": "AplicattionAPI\\DTOS\\Request\\Query\\ObtenerporIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:44:07.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Comand\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\DTOS\\Request\\Comand\\LoginCommand.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\DTOS\\Request\\Comand\\LoginCommand.cs",
+              "RelativeToolTip": "AplicattionAPI\\DTOS\\Request\\Comand\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:37:25.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\LoginHandler.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\LoginHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\LoginHandler.cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\LoginHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T11:37:17.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T07:23:54.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lolrepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\InfrastructureAPI\\Lolrepository.cs",
+              "RelativeDocumentMoniker": "InfrastructureAPI\\Lolrepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\InfrastructureAPI\\Lolrepository.cs",
+              "RelativeToolTip": "InfrastructureAPI\\Lolrepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:49:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILolRepository.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\ILolRepository.cs",
+              "RelativeDocumentMoniker": "DomainAPI\\Interfaces\\ILolRepository.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\ILolRepository.cs",
+              "RelativeToolTip": "DomainAPI\\Interfaces\\ILolRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T05:40:19.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\ISpecification.cs",
+              "RelativeDocumentMoniker": "DomainAPI\\Interfaces\\ISpecification.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\DomainAPI\\Interfaces\\ISpecification.cs",
+              "RelativeToolTip": "DomainAPI\\Interfaces\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:07:41.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCampeonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\CreateCampeonHandler.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\CreateCampeonHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\CreateCampeonHandler.cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\CreateCampeonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:34:21.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteCampeonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\DeleteCampeonHandler.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\DeleteCampeonHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\DeleteCampeonHandler.cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\DeleteCampeonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:42:38.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateCampeonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\UpdateCampeonHandler.cs",
+              "RelativeDocumentMoniker": "AplicattionAPI\\Handlers\\UpdateCampeonHandler.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\AplicattionAPI\\Handlers\\UpdateCampeonHandler.cs",
+              "RelativeToolTip": "AplicattionAPI\\Handlers\\UpdateCampeonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T06:43:11.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\PruebaunitariaLolAPI\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PruebaunitariaLolAPI\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\PruebaunitariaLolAPI\\UnitTest1.cs",
+              "RelativeToolTip": "PruebaunitariaLolAPI\\UnitTest1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T04:50:40.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PruebaunitariaLolAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj",
+              "RelativeDocumentMoniker": "PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj",
+              "ToolTip": "C:\\Users\\juanm\\source\\repos\\WebApplication1\\PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj",
+              "RelativeToolTip": "PruebaunitariaLolAPI\\PruebaunitariaLolAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T04:55:08.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
